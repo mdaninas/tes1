@@ -131,7 +131,7 @@ div.li2{
 
 }
 .containerblue{
-  background-image: url(.\assets\2825710.gif);
+  background-image: url(./assets/2825710.gif);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
